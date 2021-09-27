@@ -1,16 +1,16 @@
 const version = (prefix, pushname) => {
     return `
-*FX-BOT-73 🤖*
+*NACOBOOT 🤖*
 
-*Actualizado:* 19 De Junio
-*Versión actual:* 73
-*Ofrecida por:* Felixcrack
+*Actualizado:* 27 De Septiembre
+*Versión actual:* 01
+*Ofrecida por:* Trapy
 
-Para conocer la ultima versión de FX-BOT-73 entra al siguiente blog
+Para conocer la ultima versión de NACOBOOT entra al siguiente blog
 
 
 
-by Felixcrack
+by Trapy
 `
 
 }
