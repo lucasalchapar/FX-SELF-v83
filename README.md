@@ -18,7 +18,7 @@
 ```bash
 > pkg install git
 > pkg install ffmpeg
-> git clone https://github.com/Fxmods/FX-SELF-v83
+> git clone https://github.com/lucasalchapar/FX-SELF-v83
 > cd FX-SELF-v83
 > npm start/node index.js
 ```
